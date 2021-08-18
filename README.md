@@ -1,6 +1,6 @@
 # DTS-DogBarberShop-ServerSide
 
-## The firest time you download the project run the following commands: 
+## The first time you download the project run the following commands: 
 
 Run `dotnet tool install --global dotnet-ef`
 
